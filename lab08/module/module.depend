@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652703899 source:d:\Ëàáû ÁÌÒÏ\Ëàá 8\module\main.cpp
+	<iostream>
+	<math.h>
+	"moduleReskalenko.h"
+
+1652697576 d:\Ëàáû ÁÌÒÏ\lib8\modulereskalenko.h
+	<cmath>
+	<math.h>
+	<iostream>
+
